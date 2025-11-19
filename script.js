@@ -12,7 +12,7 @@ function multiply(a, b) {
 }
 
 function divide(a, b) {
-    return parseFloat(a) / parseFloat(b);
+    return parseFloat (a) / parseFloat(b);
 }
 
 let number1 = "10";
